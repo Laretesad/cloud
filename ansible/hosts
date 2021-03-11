@@ -1,0 +1,3 @@
+[debi_servers]
+localhost ansible_connection=local ansible_python_interpreter=/usr/bin/python2
+#sub ansible_host=192.168.56.101 ansible_user=sub ansible_ssh_private_key_file=/home/svyatoslav/.ssh/id_rsa ansible_ssh_public_key_file=/home/svyatoslav/.ssh/id_rsa.pub ansible_ssh_password=
